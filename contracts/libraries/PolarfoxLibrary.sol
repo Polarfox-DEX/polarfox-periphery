@@ -21,7 +21,7 @@ library PolarfoxLibrary {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'94c853354a344ff78673fb342ea963a6d2b95e4314c19cd8f51c9940de445a9a' // init code hash
+                hex'4a7e237dc58fb0c257db3495bada2d5853811107221f44bdf4ab0ed21031c98e' // init code hash
             ))));
     }
 

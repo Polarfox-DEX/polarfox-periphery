@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "@ethersproject/bignumber": "^5.0.15",
-    "@polarfox/core": "^2.0.0",
+    "@polarfox/core": "^2.3.2",
     "@polarfox/lib": "^1.0.1"
   },
   "devDependencies": {
