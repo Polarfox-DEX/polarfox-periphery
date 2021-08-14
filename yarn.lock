@@ -447,10 +447,10 @@
     "@ethersproject/properties" "^5.0.3"
     "@ethersproject/strings" "^5.0.4"
 
-"@polarfox/core@^2.3.2":
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/@polarfox/core/-/core-2.3.2.tgz#1d172ec5e8e7e13b516e5ac107ac6fec868b8e2d"
-  integrity sha512-9rnVrKDulp3mSvLkDIaEZ5KVoWN5AUSiqVqvcsZHZnP/NqdYew964LJSa3I9iTu3CCnVuPu5odqMgY3utP7vBg==
+"@polarfox/core@^2.5.2":
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/@polarfox/core/-/core-2.5.2.tgz#d94ccdfbda79cddfa7c5915e16110856f684e845"
+  integrity sha512-SvhLP7qequR6i22IEXuppaawgztyFVT8BpNHdrjE7Vd8gOhdm5IcQqNZfCGgNNN6qEL889ZjK+eHH2OaqMoOGA==
   dependencies:
     "@ethersproject/solidity" "^5.0.10"
     "@truffle/hdwallet-provider" "1.4.0"
